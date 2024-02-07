@@ -13,13 +13,13 @@ Before running the app, make sure you have Node.js and npm installed on your mac
 1. Clone this repository to your local machine:
 
 ```bash
-git clone ttps://github.com/mila-ncoded/react-next-projects.git
+git clone [https://github.com/mila-ncoded/nextjs-project.git](https://github.com/mila-ncoded/nextjs-project.git)
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-next-projects
+cd nextjs-project
 ```
 
 3. Install dependencies:
