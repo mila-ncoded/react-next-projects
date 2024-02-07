@@ -1,8 +1,36 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Next.js Learning App
 
-First, run the development server:
+Welcome to my first Next.js App! This project is designed to help learn Next.js, a powerful React framework for building server-side rendered and static web applications.
+
+### Prerequisites
+
+Before running the app, make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone ttps://github.com/mila-ncoded/react-next-projects.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd react-next-projects
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+### Running the App
+
+To start the development server, run:
 
 ```bash
 npm run dev
@@ -14,7 +42,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
