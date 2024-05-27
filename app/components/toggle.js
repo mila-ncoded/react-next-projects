@@ -27,6 +27,7 @@ export default function Toggle({ onToggle }) {
   return (
     <div onClick={toggleClickHandler} className={toggleClasses}>
       <span className={circleClasses} />
+      <p>New feature!</p>
     </div>
   );
 }
