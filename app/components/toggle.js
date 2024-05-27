@@ -25,13 +25,8 @@ export default function Toggle({ onToggle }) {
   }
 
   return (
-    <div
-      onClick={toggleClickHandler}
-      className={toggleClasses}
-    >
-      <span
-        className={circleClasses}
-      />
+    <div onClick={toggleClickHandler} className={toggleClasses}>
+      <span className={circleClasses} />
     </div>
   );
 }
